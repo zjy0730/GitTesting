@@ -1,0 +1,30 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+button{
+  border-radius: 3px;
+  color:#FFFFE7;
+  font-size:18pt;
+  padding: 15px 50px;
+  font-family: Futura;
+  background-color: #292F37;
+  transition: all 0.5s;
+  cursor: pointer;
+  content: \00bb;
+}
+
+input{
+  width: 50%;
+  padding: 12px 10px;
+  color: #FFFFE7;
+  font-family: Futura;
+  margin: 8px 20px;
+  display: inline-block;
+  font-size:18pt;
+  border: 1px solid #FFFFE7;
+  background-color: #292F37;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
